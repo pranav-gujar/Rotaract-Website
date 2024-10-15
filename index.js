@@ -1,4 +1,3 @@
-
 //typing effect
 document.addEventListener('DOMContentLoaded', () => {
     const textElement = document.querySelector('.animated-text');
@@ -37,4 +36,3 @@ document.addEventListener('DOMContentLoaded', () => {
     textElement.textContent = '';
     typeText();
   });
-  
